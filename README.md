@@ -1,6 +1,5 @@
-<img align="right" src="https://media.discordapp.net/attachments/1171040731104808962/1181969242506137710/Screenshot_2023-11-21_at_4.35.53.png?ex=6582fda3&is=657088a3&hm=4926db45a1d5af43d156dc8a7b29f010eba9c743e0ca599901c518570e8b8aba&=&format=webp&quality=lossless" alt="logo" width="320px"/>
 
-# MatchScore Team 5
+# Match Score
 
 Welcome to `back-end match score guidance handbook`.
 Here you will understand how to properly work with the program. 
