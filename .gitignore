@@ -1,0 +1,5 @@
+.venv
+__pycache__
+Match_Score_DB.mwb.bak
+private_password.py
+
